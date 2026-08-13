@@ -13,6 +13,6 @@
   "dependencies": {
     "moment": "^2.29.4",
     "play-sound": "^1.1.6",
-    "selenium-webdriver": "^4.0.0-alpha.5"
+    "selenium-webdriver": "^4.47.0"
   }
 }
